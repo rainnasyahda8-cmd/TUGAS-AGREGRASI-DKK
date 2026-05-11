@@ -5,5 +5,9 @@
 class ibu {
 public:
     string nama;
-    vector
+    vector<anak*> daftat_anak;
+
+    ibu(string pNama) :nama(pNAma {
+        cout << "ibu \"" << nama << "\" ada\n";
+    })
 }
