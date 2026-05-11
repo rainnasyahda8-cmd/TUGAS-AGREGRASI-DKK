@@ -5,6 +5,6 @@ class anak {
 public:
     string nama;
     anak(string pNAma) :nama(pNama) {
-        
+        cout << "Anak \"" << nama << "\" ada\n";
     }
 }
